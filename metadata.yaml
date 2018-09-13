@@ -1,5 +1,8 @@
 _repo: 1812-Napoleon-I-in-Russia_51418
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51418-h/images/cover.jpg
 creator:
   author:
     agent_name: Vereshchagin, Vasilïĭ Vasilʹevich
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34576
     wikipedia: http://en.wikipedia.org/wiki/Vasily_Vereshchagin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51418#1812-Napoleon-I-in-Russia
 gutenberg_issued: '2016-03-12'
 gutenberg_type: Text
 identifiers:
